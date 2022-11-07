@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUshop", "AUshop.csproj", "{787E82FA-AED8-4750-8A70-E975C9670BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787E82FA-AED8-4750-8A70-E975C9670BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787E82FA-AED8-4750-8A70-E975C9670BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787E82FA-AED8-4750-8A70-E975C9670BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787E82FA-AED8-4750-8A70-E975C9670BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CCCAF2F-7ED1-4635-AC98-00CB971771F9}
+	EndGlobalSection
+EndGlobal
